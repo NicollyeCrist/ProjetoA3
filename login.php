@@ -1,4 +1,8 @@
-ompatible" content="IE=edge">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tela de login</title>
     <style>
@@ -41,7 +45,7 @@ ompatible" content="IE=edge">
 <body>
       <div>
       <center>
-        <h1>LOGIN</h1>
+        <h1>Login</h1>
         <form id="login" action="logado.php" method="POST">
          <input type="text" placeholder="Nome" id="login" required>
          <br><br>
