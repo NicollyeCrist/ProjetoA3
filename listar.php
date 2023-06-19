@@ -4,7 +4,7 @@
         background-image: url('https://wallpaperaccess.com/full/5493645.jpg');
       }
       div{
-        background-color: rgba(0, 0, 0, 0.7);
+        background-color: rgba(20, 20, 20, 0.7);
         position: absolute;
         top: 50%;
         left: 50%;
