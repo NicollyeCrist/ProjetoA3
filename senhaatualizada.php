@@ -29,6 +29,10 @@
         a {
             text-decoration: none;
             color: #4f0d15;
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-bottom: 10px;
         }
     </style>
 </head>
